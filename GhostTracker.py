@@ -330,3 +330,5 @@ if __name__ == '__main__':
         print(f'\n{Wh}[ {Re}! {Wh}] {Re}Exit')
         time.sleep(2)
         exit()
+
+# Created for Anonymous Tracking 
